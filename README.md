@@ -58,10 +58,9 @@ What are the similarities and differences between racial disparities in educatio
 
 ## Data Metrics
 - Academic performance by race: 
-  - Average test scores: They are influenced by opportunities to learn at home, in neighborhoods, in child-care, preschool, and after-school programs, from peers and friends, and at school.
+  - Average test scores: Average test scores are influenced by opportunities to learn at home, in the neighborhood, during child-care, at preschool and after-school programs, from classmates and friends, and at -most obviously- school.
     - SAT and AP test scores
-  - Trends in test scores: Tracking average test scores over time shows growth or decline in educational opportunity. These trends reflect shifts in school quality as well as changes in family and community characteristics.
-  - Chronic Absenteeism: students who are chronically absent—meaning they miss at least 15 days of school in a year. Chronic affects student achievement, as well as student attitude and behavior at school. An increase in absences increases the risk of dropping out of school.
+  - Chronic Absenteeism: Students who are chronically absent means that they miss at least 15 days of school in a year. Chronic absences affects student achievement, as well as student attitude and behavior at school. An increase in absences increases the risk of dropping out of school.
   - High-school graduation rates by race: a less specific yet helpful indicator of general educational performance outcome of students by race
 - Population distribution across race in the four states: a basic description of racial divergence in the states, might differ in terms of their impacts on racial disparities
 
@@ -87,6 +86,7 @@ What are the similarities and differences between racial disparities in educatio
   
 - [Chronic Absenteeism](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/Chronic-Absenteeism%20(1).xlsx): Taken from Civil Rights Data Collection open data source, 2013/14 school year estimates
   
-  
-
+ 
+## Data Analysis
+We decided to do a cluster analysis for each state using high school graduation rate, average SAT test score, average AP test score, and percentage of chronically absent students. We used 
 
