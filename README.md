@@ -107,7 +107,12 @@ We decided to do a three-cluster analysis for each state using high school gradu
 
 ![IMG_2544](https://user-images.githubusercontent.com/70858878/97628263-d7efb600-1a02-11eb-9397-74d9396b714c.jpeg)
 
+There is no strong correlation between high school graduation rate and chronic abs rate. Specifically, high chronic abs rate does not indicate lower graduation rate for both white and hispanic students. 
+
 ![IMG_2545](https://user-images.githubusercontent.com/70858878/97628273-da521000-1a02-11eb-92df-94ffe5306f11.jpeg)
+
+There is a mostly positive correlation between mean SAT scores and mean AP score. 
+
 
 ### Florida
 - Cluster 1: Asian: high hs grad, high mean SAT, low chronic abs, high mean AP
@@ -121,7 +126,12 @@ We decided to do a three-cluster analysis for each state using high school gradu
 
 ![IMG_2550](https://user-images.githubusercontent.com/70858878/97628321-eb028600-1a02-11eb-8269-7cf5ea1c8b1c.jpeg)
 
+There is no strong correlation between high school graduation rate and chronic abs rate. Specifically, High chronic abs rate does not indicate a lower graduation rate for white students. 
+
+
 ![IMG_2551](https://user-images.githubusercontent.com/70858878/97628329-eccc4980-1a02-11eb-83ea-7c47faaf4b72.jpeg)
+
+There is a mostly positive correlation between mean SAT scores and mean AP score. 
 
 
 ### Illinois
@@ -136,7 +146,12 @@ We decided to do a three-cluster analysis for each state using high school gradu
 
 ![IMG_2552](https://user-images.githubusercontent.com/70858878/97628363-f8b80b80-1a02-11eb-99c1-71546d5da40c.jpeg)
 
+There is no strong correlation between high school graduation rate and chronic abs rate. Compared with CA, FL, and PA, high school students from IL show relatively high chronic abs rate despite races.
+
+
 ![IMG_2553](https://user-images.githubusercontent.com/70858878/97628368-f9e93880-1a02-11eb-854e-58e076d854f8.jpeg)
+
+There is a mostly positive correlation between mean SAT scores and mean AP score. Except for African Americans, whose mean AP score should have been higher considering its mean SAT score.
 
 
 ### Pennsylvania
@@ -151,7 +166,12 @@ We decided to do a three-cluster analysis for each state using high school gradu
 
 ![IMG_2554](https://user-images.githubusercontent.com/70858878/97628457-1be2bb00-1a03-11eb-95c8-e01413426d03.jpeg)
 
+There is no strong correlation between high school graduation rate and chronic abs rate. Despite having a high chronic abs rate, white students from PA’s chances of obtaining a high school degree is high. Noticeably, Hispanic/Latino students have a chronic abs rate as high as their graduation rate.
+
+
 ![IMG_2555](https://user-images.githubusercontent.com/70858878/97628462-1e451500-1a03-11eb-94fd-d69bc70a4a74.jpeg)
+
+There is a mostly positive correlation between mean SAT scores and mean AP score. However, American Indian/Alaska Native students should have a slightly higher mean AP score considering their mean SAT score.
 
 
 # Summary
