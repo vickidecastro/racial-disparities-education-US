@@ -10,10 +10,20 @@ This project will explore the racial disparities regarding education in states c
 We chose to look at racial differences in education across states in the US given the rising racial tensions going on in the country right now. We think it is very important that racial disparities in education be addressed and discussed so that comprehensive and all-encompassing policy action can be taken to direct resources where they are needed most. 
 
 ## Business Question
-How do educational characteristics differ by race in the U.S.?
+How do educational characteristics differ by race in the U.S.? How can these differences inform potential policy action regarding the US educational system? 
 
 ## Data Question
 What are the similarities and differences between racial disparities in education between Florida, California, Pennsylvania, and Illinois, and what are the possible reasons behind these disparities? 
+
+## Data Metrics
+- Academic performance by race: 
+  - Average test scores: They are influenced by opportunities to learn at home, in neighborhoods, in child-care, preschool, and after-school programs, from peers and friends, and at school.
+    - SAT and AP test scores
+  - Trends in test scores: Tracking average test scores over time shows growth or decline in educational opportunity. These trends reflect shifts in school quality as well as changes in family and community characteristics.
+  - Chronic Absenteeism: students who are chronically absent—meaning they miss at least 15 days of school in a year. Chronic affects student achievement, as well as student attitude and behavior at school. An increase in absences increases the risk of dropping out of school.
+  - High-school graduation rates by race: a less specific yet helpful indicator of general educational performance outcome of students by race
+- Population distribution across race in the four states: a basic description of racial divergence in the states, might differ in terms of their impacts on racial disparities
+
 
 ## Data Sources
 - High School Graduation Rates: Taken from various state websites with available data, 2017/18 school year
