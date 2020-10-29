@@ -97,6 +97,10 @@ We decided to do a three-cluster analysis for each state using high school gradu
   - Hispanic/Latino
 - Cluster 3: Black/African American: low hs grad, low mean SAT, avg chronic abs, low mean AP
   - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
+  
+<img width="867" alt="Screen Shot 2020-10-29 at 12 06 43 AM" src="https://user-images.githubusercontent.com/70858878/97524286-aa5f2a00-197a-11eb-810b-72c2a122f964.png">
+
+
 
 ### Florida
 - Cluster 1: Asian: high hs grad, high mean SAT, low chronic abs, high mean AP
@@ -106,6 +110,9 @@ We decided to do a three-cluster analysis for each state using high school gradu
 - Cluster 3: low hs grad, low mean SAT, low chronic abs, low mean AP 
   - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
 
+<img width="992" alt="Screen Shot 2020-10-29 at 12 07 26 AM" src="https://user-images.githubusercontent.com/70858878/97524320-bf3bbd80-197a-11eb-90ab-054f1f3c7c60.png">
+
+
 ### Illinois
 - Cluster 1: Native Hawaiian/Pacific Islander: low-avg hs grad, avg mean SAT, low chronic abs, avg mean AP
   - Native Hawaiian/Pacific Islander, American Indian/Alaska Native, Multiracial
@@ -113,6 +120,9 @@ We decided to do a three-cluster analysis for each state using high school gradu
   - Black/African American, Hispanic/Latino
 - Cluster 3: Asian: high hs grad, high mean SAT, avg chronic abs, high mean AP
   - White, Asian
+
+<img width="858" alt="Screen Shot 2020-10-29 at 12 10 52 AM" src="https://user-images.githubusercontent.com/70858878/97524504-3c673280-197b-11eb-82f4-8ff6f7b6c0fd.png">
+
 
 ### Pennsylvania
 - Cluster 1: American Indian/Alaska Native: low hs grad, low mean SAT, low chronic abs, low mean AP
@@ -122,3 +132,4 @@ We decided to do a three-cluster analysis for each state using high school gradu
 - Cluster 3: Hispanic/Latino: low hs grad, low mean SAT, high chronic abs, avg mean AP
   - Hispanic/Latino
   
+<img width="888" alt="Screen Shot 2020-10-29 at 12 02 46 AM" src="https://user-images.githubusercontent.com/70858878/97524559-602a7880-197b-11eb-8211-45e32b8516bc.png">
