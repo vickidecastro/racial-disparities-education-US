@@ -71,24 +71,24 @@ What are the similarities and differences between racial disparities in educatio
 ## Data Sources
 - High School Graduation Rates: Taken from various state websites with available data, 2017/18 school year
 
-  - CA
-  - FL
-  - IL
-  - PA
+  - [CA](https://www.kidsdata.org/topic/755/graduates-race/table#fmt=1154&loc=2,127,347,1763,331,348,336,171,321,345,357,332,324,369,358,362,360,337,327,364,356,217,353,328,354,323,352,320,339,334,365,343,330,367,344,355,366,368,265,349,361,4,273,59,370,326,333,322,341,338,350,342,329,325,359,351,363,340,335&tf=130&ch=7,11,726,85,10,72,9,73)
+  - [FL](http://www.fldoe.org/core/fileparse.php/7584/urlt/GradRates1718.pdf)
+  - [IL](https://www.illinoisreportcard.com/state.aspx?source=trends&source2=graduationrate&Stateid=IL)
+  - [PA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2017-2018%20Pennsylvania%204-Year%20Cohort%20Graduation%20Rates%20(1).xlsx) 
 
 - SAT Scores by Race: Taken from College Board open data, 2017/18 school year
 
-  - CA
-  - FL
-  - IL
-  - PA
+  - [CA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-california-sat-suite-of-assessments-annual-report.pdf)
+  - [FL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-florida-sat-suite-of-assessments-annual-report.pdf)
+  - [IL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-illinois-sat-suite-of-assessments-annual-report.pdf)
+  - [PA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-pennsylvania-sat-suite-of-assessments-annual-report.pdf)
   
 - AP Scores by Race: Taken from College Board open data, 2017/18 school year
 
-  - CA
-  - FL
-  - IL
-  - PA
+  - [CA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/california-summary-2018.xlsx)
+  - [FL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/florida-summary-2018.xlsx)
+  - [IL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/ILcluster.xlsx)
+  - [PA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/pennsylvania-summary-2018.xlsx)
   
  - Chronic Absenteeism: Taken from Civil Rights Data Collection open data source, 2013/14 school year estimates
 
@@ -102,7 +102,8 @@ We decided to do a three-cluster analysis for each state using high school gradu
   - Hispanic/Latino
 - Cluster 3: Black/African American: low hs grad, low mean SAT, avg chronic abs, low mean AP
   - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
-Screen Shot 2020-10-29 at 12 37 41 AM
+
+ <img width="918" alt="Screen Shot 2020-10-29 at 1 30 14 AM" src="https://user-images.githubusercontent.com/70858878/97529467-55c1ac00-1986-11eb-925f-bba911f1907b.png">
 
 ### Florida
 - Cluster 1: Asian: high hs grad, high mean SAT, low chronic abs, high mean AP
@@ -111,7 +112,9 @@ Screen Shot 2020-10-29 at 12 37 41 AM
   - Hispanic/Latino, White, Multiracial
 - Cluster 3: low hs grad, low mean SAT, low chronic abs, low mean AP
   - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
-Screen Shot 2020-10-29 at 12 07 26 AM
+  
+<img width="999" alt="Screen Shot 2020-10-29 at 1 31 10 AM" src="https://user-images.githubusercontent.com/70858878/97529513-70942080-1986-11eb-89e2-b8200b0c9373.png">
+
 
 ### Illinois
 - Cluster 1: Native Hawaiian/Pacific Islander: low-avg hs grad, avg mean SAT, low chronic abs, avg mean AP
@@ -120,7 +123,9 @@ Screen Shot 2020-10-29 at 12 07 26 AM
   - Black/African American, Hispanic/Latino
 - Cluster 3: Asian: high hs grad, high mean SAT, avg chronic abs, high mean AP
   - White, Asian
-Screen Shot 2020-10-29 at 12 10 52 AM
+
+<img width="860" alt="Screen Shot 2020-10-29 at 1 31 36 AM" src="https://user-images.githubusercontent.com/70858878/97529535-81449680-1986-11eb-8425-191432dd4008.png">
+
 
 ### Pennsylvania
 - Cluster 1: American Indian/Alaska Native: low hs grad, low mean SAT, low chronic abs, low mean AP
@@ -129,7 +134,9 @@ Screen Shot 2020-10-29 at 12 10 52 AM
   - White, Asian, Native Hawaiian/Pacific Islander
 - Cluster 3: Hispanic/Latino: low hs grad, low mean SAT, high chronic abs, avg mean AP
   - Hispanic/Latino
-Screen Shot 2020-10-29 at 12 36 29 AM
+
+<img width="955" alt="Screen Shot 2020-10-29 at 1 32 14 AM" src="https://user-images.githubusercontent.com/70858878/97529573-97eaed80-1986-11eb-94ce-159cfc1a2366.png">
+
 
 # Summary
 We found that in all 4 states, Blacks/African-Americans consistently fell in the cluster with lower rates of HS graduation and lower mean test scores. In 3 of the 4 states (excl IL), American Indians/Alaska Natives were also included in this cluster. In all 4 states, Asians had higher mean test scores and high rates of HS graduation. In 3 of 4 states (excl. FL), this was also true for Whites. Hispanics/Latinos had high rates of chronic absences across all four states, but the other factors were more variable. Hispanics either had average or low rates of HS graduation, and low or average test scores. Multiracial individuals were in different clusters across the board, which intuitevly makes sense as these individuals are of 2 or more races and will vary across states. We also found that in 3 out of the 4 states (excl PA), American Indians/Alaska Natives and Native Hawaiians/Pacific Islanders were in the same cluster.
