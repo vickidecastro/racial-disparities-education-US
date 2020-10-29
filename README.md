@@ -13,7 +13,7 @@ This project will explore the racial disparities regarding education in states c
 We chose to look at racial differences in education across states in the US given the rising racial tensions going on in the country right now. We think it is very important that racial disparities in education be addressed and discussed so that comprehensive and all-encompassing policy action can be taken to direct resources where they are needed most.
 
 # State Racial Demographics
-- CA
+- [CA](https://www.ppic.org/publication/californias-population/#:~:text=No%20race%20or%20ethnic%20group,the%202018%20American%20Community%20Survey.)
 
   - Racial breakdown:
     - Latino: 39%
@@ -23,7 +23,7 @@ We chose to look at racial differences in education across states in the US give
     - Multiracial: 3%
     - American Indian/Alaska Native: <1%
     - Native Hawaiian/Other Pacific Islander: <1%
-- FL
+- [FL](https://data.census.gov/cedsci/table?q=B03002&g=0400000US12&y=2018&tid=ACSDT1Y2018.B03002&hidePreview=true)
 
   - Racial breakdown:
     - White: 53.26%
@@ -33,7 +33,7 @@ We chose to look at racial differences in education across states in the US give
     - Multiracial: 2%
     - American Indian/Alaska Native: <1%
     - Native Hawaiian/Other Pacific Islander: <1%
-- IL
+- [IL](https://datausa.io/profile/geo/illinois#demographics)
 
   - Racial breakdown:
     - White: 60.9%
@@ -43,7 +43,7 @@ We chose to look at racial differences in education across states in the US give
     - Multiracial: 2.68%
     - American Indian/Alaska Native: <1%
     - Native Hawaiian/ Other Pacific Islander: <1%
-- PA
+- [PA](https://www.census.gov/quickfacts/PA)
 
   - Racial Breakdown:
     - White: 75.7%
