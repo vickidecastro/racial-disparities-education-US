@@ -88,5 +88,37 @@ What are the similarities and differences between racial disparities in educatio
   
  
 ## Data Analysis
-We decided to do a cluster analysis for each state using high school graduation rate, average SAT test score, average AP test score, and percentage of chronically absent students. We used these variables as we could access them across states, CB data is consistent, and because they are common indicators of educational performance across the board. 
+We decided to do a three-cluster analysis for each state using high school graduation rate, average SAT test score, average AP test score, and percentage of chronically absent students by race (7 races). We used these variables as we could access them across states, CB data is consistent, and because they are common indicators of educational performance across the board. 
 
+### California
+- Cluster 1: Multiracial: avg hs grad, high mean SAT, low/avg chronic abs, high mean AP
+  - Asian, White, Multiracial
+- Cluster 2: Hispanic/Latino: avg hs grad, low mean SAT, high chronic ab, low mean SAT
+  - Hispanic/Latino
+- Cluster 3: Black/African American: low hs grad, low mean SAT, avg chronic abs, low mean AP
+  - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
+
+### Florida
+- Cluster 1: Asian: high hs grad, high mean SAT, low chronic abs, high mean AP
+  - Asian
+- Cluster 2: Hispanic/Latino: avg hs grad, avg mean SAT, high chrnic abs, high/avg mean AP
+  - Hispanic/Latino, White, Multiracial
+- Cluster 3: low hs grad, low mean SAT, low chronic abs, low mean AP 
+  - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
+
+### Illinois
+- Cluster 1: Native Hawaiian/Pacific Islander: low-avg hs grad, avg mean SAT, low chronic abs, avg mean AP
+  - Native Hawaiian/Pacific Islander, American Indian/Alaska Native, Multiracial
+- Cluster 2: Black/African American: low hs grad, low mean SAT, high chronic abs, low mean AP
+  - Black/African American, Hispanic/Latino
+- Cluster 3: Asian: high hs grad, high mean SAT, avg chronic abs, high mean AP
+  - White, Asian
+
+### Pennsylvania
+- Cluster 1: American Indian/Alaska Native: low hs grad, low mean SAT, low chronic abs, low mean AP
+  - American Indian/Alaska Native, Black/African American, Multiracial
+- Cluster 2: White: high hs grad, high mean SAT, avg-high chronic abs, high mean AP
+  - White, Asian, Native Hawaiian/Pacific Islander
+- Cluster 3: Hispanic/Latino: low hs grad, low mean SAT, high chronic abs, avg mean AP
+  - Hispanic/Latino
+  
