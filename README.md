@@ -134,7 +134,8 @@ We decided to do a three-cluster analysis for each state using high school gradu
 - Cluster 3: Hispanic/Latino: low hs grad, low mean SAT, high chronic abs, avg mean AP
   - Hispanic/Latino
   
-<img width="888" alt="Screen Shot 2020-10-29 at 12 02 46 AM" src="https://user-images.githubusercontent.com/70858878/97524559-602a7880-197b-11eb-8211-45e32b8516bc.png">
+<img width="960" alt="Screen Shot 2020-10-29 at 12 36 29 AM" src="https://user-images.githubusercontent.com/70858878/97526114-d4b2e680-197e-11eb-891e-de68c40b94b0.png">
+
 
 ## Summary
 We found that in all 4 states, Blacks/African-Americans consistently fell in the cluster with lower rates of HS graduation and lower mean test scores. In 3 of the 4 states, American Indians/Alaska Natives were also included in this cluster. 
