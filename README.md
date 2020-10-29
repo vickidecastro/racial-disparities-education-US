@@ -16,19 +16,19 @@ How do educational characteristics differ by race in the U.S.?
 What are the similarities and differences between racial disparities in education between Florida, California, Pennsylvania, and Illinois, and what are the possible reasons behind these disparities? 
 
 ## Data Sources
-- High School Graduation Rates (2017/18 school year): Taken from various state websites with available data 
+- High School Graduation Rates: Taken from various state websites with available data, 2017/18 school year
   - [CA](https://www.kidsdata.org/topic/755/graduates-race/table#fmt=1154&loc=2,127,347,1763,331,348,336,171,321,345,357,332,324,369,358,362,360,337,327,364,356,217,353,328,354,323,352,320,339,334,365,343,330,367,344,355,366,368,265,349,361,4,273,59,370,326,333,322,341,338,350,342,329,325,359,351,363,340,335&tf=130&ch=7,11,726,85,10,72,9,73)
   - [FL](http://www.fldoe.org/core/fileparse.php/7584/urlt/GradRates1718.pdf)
   - [IL](https://www.illinoisreportcard.com/state.aspx?source=trends&source2=graduationrate&Stateid=IL)
   - [PA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2017-2018%20Pennsylvania%204-Year%20Cohort%20Graduation%20Rates%20(1).xlsx)
 
-- SAT Scores by Race: Taken from College Board open data
+- SAT Scores by Race: Taken from College Board open data, 2017/18 school year
   - [CA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-california-sat-suite-of-assessments-annual-report.pdf)
   - [FL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-florida-sat-suite-of-assessments-annual-report.pdf)
   - [IL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-illinois-sat-suite-of-assessments-annual-report.pdf)
   - [PA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2017-2018%20Pennsylvania%204-Year%20Cohort%20Graduation%20Rates%20(1).xlsx)
   
-- AP Scores by Race: Taken from College Board open data
+- AP Scores by Race: Taken from College Board open data, 2017/18 school year
   - [CA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/california-summary-2018.xlsx)
   - [FL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/florida-summary-2018.xlsx)
   - [IL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-illinois-sat-suite-of-assessments-annual-report.pdf)
