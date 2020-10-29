@@ -44,7 +44,7 @@ What are the similarities and differences between racial disparities in educatio
   - [IL](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/2018-illinois-sat-suite-of-assessments-annual-report.pdf)
   - [PA](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/pennsylvania-summary-2018.xlsx)
   
-- [Chronic Absenteeism](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/Chronic-Absenteeism%20(1).xlsx) :Taken from Civil Rights Data Collection open data source, 2013/14 school year estimates
+- [Chronic Absenteeism](https://github.com/vickidecastro/racial-disparities-education-US/blob/main/Chronic-Absenteeism%20(1).xlsx): Taken from Civil Rights Data Collection open data source, 2013/14 school year estimates
   
   
 
