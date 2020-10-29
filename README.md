@@ -6,7 +6,7 @@ In every major American metropolitan area, there are still huge gaps separating 
 
 The education gap between white and nonwhite adults tends to be wider in areas that are thriving than in those that are struggling, largely because many more white people in thriving states hold degrees. In many states, information-age jobs that are high paying and dependent on human capital are held mostly by white people, widening the gap even further. [Manuel Pastor](https://www.theatlantic.com/education/archive/2014/02/how-public-schools-can-fight-back-against-inequality/283669/) says the performance of important areas in the economy, including Massachusetts and New York, shows a change in the urban experience of the past. Overall economic growth was greatest in the metro areas that did best on measures of racial inclusion during the late 20th and early 21st centuries. However, this actually no longer appears to be the case.
 
-[Research](https://news.harvard.edu/gazette/story/2016/02/the-costs-of-inequality-educations-the-one-key-that-rules-them-all/) has found that at age 1, children across all races score similarly in skill patterns. These skill patterns measure cognitive ability among todlers. This indicates that the racial achievement gap starts early.
+[Research](https://news.harvard.edu/gazette/story/2016/02/the-costs-of-inequality-educations-the-one-key-that-rules-them-all/) has found that at age 1, children across all races score similarly in skill patterns. These skill patterns measure cognitive ability among toddlers. This indicates that the racial achievement gap starts early.
 
 This project will explore the racial disparities regarding education in states covering different regions in the United States. The states include California, Pennsylvania, Florida, and Illinois. The chosen states are located in different regions within the United States, and thus they have different racial breakdown and major industries. Ideally, after comparing and contrasting the different academic performances among the states, we can identify ways in which racial disparities can be eliminated in K-12 and college education, which are considered to be the foundation of social and personal prosperity.
 
@@ -105,6 +105,10 @@ We decided to do a three-cluster analysis for each state using high school gradu
 
  <img width="918" alt="Screen Shot 2020-10-29 at 1 30 14 AM" src="https://user-images.githubusercontent.com/70858878/97529467-55c1ac00-1986-11eb-925f-bba911f1907b.png">
 
+![IMG_2544](https://user-images.githubusercontent.com/70858878/97628263-d7efb600-1a02-11eb-9397-74d9396b714c.jpeg)
+
+![IMG_2545](https://user-images.githubusercontent.com/70858878/97628273-da521000-1a02-11eb-92df-94ffe5306f11.jpeg)
+
 ### Florida
 - Cluster 1: Asian: high hs grad, high mean SAT, low chronic abs, high mean AP
     - Asian
@@ -114,6 +118,10 @@ We decided to do a three-cluster analysis for each state using high school gradu
   - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
   
 <img width="999" alt="Screen Shot 2020-10-29 at 1 31 10 AM" src="https://user-images.githubusercontent.com/70858878/97529513-70942080-1986-11eb-89e2-b8200b0c9373.png">
+
+![IMG_2550](https://user-images.githubusercontent.com/70858878/97628321-eb028600-1a02-11eb-8269-7cf5ea1c8b1c.jpeg)
+
+![IMG_2551](https://user-images.githubusercontent.com/70858878/97628329-eccc4980-1a02-11eb-83ea-7c47faaf4b72.jpeg)
 
 
 ### Illinois
@@ -126,6 +134,10 @@ We decided to do a three-cluster analysis for each state using high school gradu
 
 <img width="860" alt="Screen Shot 2020-10-29 at 1 31 36 AM" src="https://user-images.githubusercontent.com/70858878/97529535-81449680-1986-11eb-8425-191432dd4008.png">
 
+![IMG_2552](https://user-images.githubusercontent.com/70858878/97628363-f8b80b80-1a02-11eb-99c1-71546d5da40c.jpeg)
+
+![IMG_2553](https://user-images.githubusercontent.com/70858878/97628368-f9e93880-1a02-11eb-854e-58e076d854f8.jpeg)
+
 
 ### Pennsylvania
 - Cluster 1: American Indian/Alaska Native: low hs grad, low mean SAT, low chronic abs, low mean AP
@@ -136,6 +148,10 @@ We decided to do a three-cluster analysis for each state using high school gradu
   - Hispanic/Latino
 
 <img width="955" alt="Screen Shot 2020-10-29 at 1 32 14 AM" src="https://user-images.githubusercontent.com/70858878/97529573-97eaed80-1986-11eb-94ce-159cfc1a2366.png">
+
+![IMG_2554](https://user-images.githubusercontent.com/70858878/97628457-1be2bb00-1a03-11eb-95c8-e01413426d03.jpeg)
+
+![IMG_2555](https://user-images.githubusercontent.com/70858878/97628462-1e451500-1a03-11eb-94fd-d69bc70a4a74.jpeg)
 
 
 # Summary
