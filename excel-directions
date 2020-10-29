@@ -1,0 +1,13 @@
+Directions: 
+1. Obtain data, by race, on HS graduation rate, mean SAT scores, mean AP scores, and percent chronic absenteeism
+2. Clean and organize data to only include mean total scores, percentages, and rates
+3. Put percentages and rates in decimal format
+4. Separate hs grad rate, mean SAT score, mean AP score, and percent chronic absenteeism by state, each state new sheet
+5. Set up 3-cluster analysis for above variables by race for each state
+6. Create columns for and calculate z scores (using =STANDARDIZE) for hs grad rate, mean SAT score, mean AP score, and percent chronic absenteeism
+7. Create theoretical anchors and use vlookup (=VLOOKUP) for race and z scores
+8. Calculate minimum distance^2 for each anchor using (=SUMXMY2)
+9. Calculate minimum distance^2 for each race using (=MIN)
+10. Figure out which race matches with which anchor using (=MATCH) function
+11. Sum minimum distance^2 for each race using (=SUM)
+12. Using excel solver, perform 3-cluster analysis 
