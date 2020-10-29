@@ -7,9 +7,13 @@ The education gap between white and nonwhite adults tends to be wider in areas t
 
 This project will explore the racial disparities regarding education in states covering different regions in the United States. The states include California, Pennsylvania, Florida, and Illinois. The chosen states are located in different regions within the United States, and thus they have different racial breakdown and major industries. Ideally, after comparing and contrasting the different academic performances among the states, we can identify ways in which racial disparities can be eliminated in K-12 and college education, which are considered to be the foundation of social and personal prosperity. 
 
+We chose to look at racial differences in education across states in the US given the rising racial tensions going on in the country right now. We think it is very important that racial disparities in education be addressed and discussed so that comprehensive and all-encompassing policy action can be taken to direct resources where they are needed most. 
+
 ## Business Question
 How do educational characteristics differ by race in the U.S.?
 
 ## Data Question
 What are the similarities and differences between racial disparities in education between Florida, California, Pennsylvania, and Illinois, and what are the possible reasons behind these disparities? 
 
+## Data Sources
+- High School Graduation Rates (2017/18 school year): [California](https://www.kidsdata.org/topic/755/graduates-race/table#fmt=1154&loc=2,127,347,1763,331,348,336,171,321,345,357,332,324,369,358,362,360,337,327,364,356,217,353,328,354,323,352,320,339,334,365,343,330,367,344,355,366,368,265,349,361,4,273,59,370,326,333,322,341,338,350,342,329,325,359,351,363,340,335&tf=130&ch=7,11,726,85,10,72,9,73), [Florida](http://www.fldoe.org/core/fileparse.php/7584/urlt/GradRates1718.pdf), [Illinois](https://www.illinoisreportcard.com/state.aspx?source=trends&source2=graduationrate&Stateid=IL), [Pennsylvania](
