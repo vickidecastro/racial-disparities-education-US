@@ -99,9 +99,7 @@ We decided to do a three-cluster analysis for each state using high school gradu
 - Cluster 3: Black/African American: low hs grad, low mean SAT, avg chronic abs, low mean AP
   - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
   
-<img width="888" alt="Screen Shot 2020-10-29 at 12 02 46 AM" src="https://user-images.githubusercontent.com/70858878/97524896-070f1480-197c-11eb-8599-ae313dcb65f7.png">
-
-
+<img width="907" alt="Screen Shot 2020-10-29 at 12 37 41 AM" src="https://user-images.githubusercontent.com/70858878/97526179-f7dd9600-197e-11eb-882b-cc1dd02f8f59.png">
 
 
 ### Florida
