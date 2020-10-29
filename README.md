@@ -88,5 +88,5 @@ What are the similarities and differences between racial disparities in educatio
   
  
 ## Data Analysis
-We decided to do a cluster analysis for each state using high school graduation rate, average SAT test score, average AP test score, and percentage of chronically absent students. We used 
+We decided to do a cluster analysis for each state using high school graduation rate, average SAT test score, average AP test score, and percentage of chronically absent students. We used these variables as we could access them across states, CB data is consistent, and because they are common indicators of educational performance across the board. 
 
