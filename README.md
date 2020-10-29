@@ -136,4 +136,4 @@ We decided to do a three-cluster analysis for each state using high school gradu
 
 
 ## Summary
-We found that in all 4 states, Blacks/African-Americans consistently fell in the cluster with lower rates of HS graduation and lower mean test scores. In 3 of the 4 states (excl IL), American Indians/Alaska Natives were also included in this cluster. In all 4 states, Asians had higher mean test scores and high rates of HS graduation. In 3 of 4 states (excl. FL), this was also true for Whites.  
+We found that in all 4 states, Blacks/African-Americans consistently fell in the cluster with lower rates of HS graduation and lower mean test scores. In 3 of the 4 states (excl IL), American Indians/Alaska Natives were also included in this cluster. In all 4 states, Asians had higher mean test scores and high rates of HS graduation. In 3 of 4 states (excl. FL), this was also true for Whites. Hispanics/Latinos had high rates of chronic absences across all four states, but the other factors were more variable. Hispanics either had average or low rates of HS graduation, and low or average test scores. 
