@@ -1,4 +1,5 @@
 # Racial Disparities and Differences in Education Metrics Across 4 US States
+Victoria de Castro and Qiutong Shi
 
 ## Background
 In every major American metropolitan area, there are still huge gaps separating white people and racial minorities. This includes gaps not only in average hourly wages, but also in educational attainment. According to [Sarah Treuhaft,](https://www.theatlantic.com/politics/archive/2020/07/us-cities-massive-wealth-and-education-gaps/614491/) a VP at PolicyLink, a research group based in Oakland, CA: “No place is actually doing well. Even the best performers have racial inequities that are unconscionable…”. This indicates that economic growth is not enough and that racial inequities are still prevalent across the country. Prosperous areas are not doing their part in sharing that prosperity across the population. 
