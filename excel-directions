@@ -11,3 +11,21 @@ Directions:
 10. Figure out which race matches with which anchor using (=MATCH) function
 11. Sum minimum distance^2 for each race using (=SUM)
 12. Using excel solver, perform 3-cluster analysis 
+
+
+Data Visualization:
+
+1. Sort data by high school graduation rate in descending order
+2. Select data from high school graduation rate series and chronicle absence rate series, display them on the same bar graphs
+3. Observe if chronicle absence rates are also in descending order
+4. Sort data by average SAT scores
+5. Select data from average SAT scores and average AP scores in descending order
+6. Select data from average SAT scores and average AP scores, plot them on combination graph with average SAT scores display as bar graph and average AP scores as trending data points
+7. Show scores on average AP score plot
+8. Observe whether average AP scores are also in descending order
+9. Cluster Analysis
+10. Calculate the mean and standard deviation or all races in each state by MEAN() and STD.DEV()
+11. Standardize four attributes using STANDARDIZE() for z-scores
+12. Choose Multiracial, African American/Black, Hispanic/Latino as three anchors and use VLOOKUP() to find their z-scores
+13. Calculate the distance between each z-score with the corresponding of the anchors, and use MIN() to find the minimum distance, then use MATCH() to find the anchor in which the minimum distance belongs
+14. Calculate the sum of minimum distances and use solver to do cluster analysis based on different race categories
